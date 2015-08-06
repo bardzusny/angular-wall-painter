@@ -82,7 +82,7 @@ angular
 
 ````
 
-**view:**
+**View:**
 ````html
 <wall-painter
   wall-painter-img="http://lorempixel.com/g/1000/1000"
