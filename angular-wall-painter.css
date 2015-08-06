@@ -1,0 +1,18 @@
+.wall-painter-container {
+  position: relative;
+}
+
+.wall-painter-container canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.wall-painter-container .windows {
+  z-index: 2;
+}
+
+.wall-painter-container.paint-above-image .walls {
+  z-index: 1;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "angular-wall-painter",
+  "main": [
+    "angular-wall-painter.js",
+    "angular-wall-painter.css"
+  ],
+  "version": "0.0.1",
+  "authors": [
+    "Adrian Zalewski <aazalewski@hotmail.com>"
+  ],
+  "description": "angular-wall-painter - paint your walls like a pro!",
+  "keywords": [
+    "angular",
+    "canvas",
+    "paint",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
