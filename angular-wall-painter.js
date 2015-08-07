@@ -51,6 +51,12 @@
         };
 
         scope.$on('$destroy', function() {
+          imgElem = null;
+          baseCanvasElem = null;
+          windowsCanvasElem = null;
+          bc = null;
+          wc = null;
+
           colorsWatch();
         });
 
